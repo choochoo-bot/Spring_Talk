@@ -2,7 +2,7 @@
 
 ## 📢 An afternoon talk from David Mytton, co-founder and CEO of Console
 
-We are pleased to announce that the NU Research Computing Community will be hosting David Mytton, Co-founder and CEO of [Console](https://console.dev/), for an afternoon talk on the **25th of March 2022**.
+We are pleased to announce that the NU Research Computing Community will be hosting David Mytton, Co-founder and CEO of [Console](https://console.dev/), for an afternoon talk on the **25th of March 2022**.  
 
 David Mytton is in the relatively unusual position of having software engineering experience in both industry and academia. He is Co-founder & CEO of [Console](https://console.dev/), which launched early-2021 to provide the best tools for developers. He is also a researcher in sustainable computing affiliated with [Imperial College London](https://www.imperial.ac.uk/), where he completed an Environmental Technology MSc in 2020. He worked on the sustainability research team at [Uptime Institute](https://uptimeinstitute.com/) between Dec 2020 and Nov 2021. From 2009-2018, David was Co-founder & CEO at [Server Density](https://www.serverdensity.com/), a London-based SaaS infrastructure monitoring startup. You can read more about his interests and background over at his website and blog: https://davidmytton.blog/about/.
 
