@@ -1,6 +1,6 @@
 # 🖥️ Northumbria University Research Computing Community
 
-⚠️ ⚠️ Note that the date of this talk has been changed due to the [UCU strike action](https://www.ucu.org.uk/article/12178/UK-universities-to-face-five-more-days-of-strike-action-before-Easter) ⚠️ ⚠️ 
+⚠️ ⚠️ Note that the date of this talk has been recently changed due to the [UCU strike action](https://www.ucu.org.uk/article/12178/UK-universities-to-face-five-more-days-of-strike-action-before-Easter) ⚠️ ⚠️ 
 
 ## An afternoon talk from David Mytton, co-founder and CEO of Console 
 
