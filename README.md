@@ -1,8 +1,10 @@
 # 🖥️ Northumbria University Research Computing Community
 
+⚠️ ⚠️ Note that the date of this talk has been changed due to the [UCU strike action](https://www.ucu.org.uk/article/12178/UK-universities-to-face-five-more-days-of-strike-action-before-Easter) ⚠️ ⚠️ 
+
 ## An afternoon talk from David Mytton, co-founder and CEO of Console 
 
-We are pleased to announce that the NU Research Computing Community will be hosting David Mytton, Co-founder and CEO of [Console](https://console.dev/), for an afternoon talk on the **25th of March 2022**.
+We are pleased to announce that the NU Research Computing Community will be hosting David Mytton, Co-founder and CEO of [Console](https://console.dev/), for an afternoon talk on the **29th of April 2022**.
 
 ------
 
@@ -18,7 +20,7 @@ David Mytton is in the relatively unusual position of having software engineerin
 
 ## Key details
 
-- 📆 Date: 25th March 2022
+- 📆 Date: 29th April 2022
 - ⏰ Time: 2pm-3pm 
 - 🏛️ Place: Hedley Suite, 4th floor Sandyford Building, Northumbria University City Campus (link to map [here](https://goo.gl/maps/WGJgaZjEMGqpu4FP9))
 - 🧑‍🤝‍🧑 Who: This event is open to all - you do not need a certain level of software engineering expertise to join us.
