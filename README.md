@@ -22,7 +22,7 @@ David Mytton is in the relatively unusual position of having software engineerin
 
 - 📆 Date: 29th April 2022
 - ⏰ Time: 2pm-3pm 
-- 🏛️ Place: Hedley Suite, 4th floor Sandyford Building, Northumbria University City Campus (link to map [here](https://goo.gl/maps/WGJgaZjEMGqpu4FP9))
+- 🏛️ Place: Room 417, 4th floor Sandyford Building, Northumbria University City Campus (link to map [here](https://goo.gl/maps/WGJgaZjEMGqpu4FP9))
 - 🧑‍🤝‍🧑 Who: This event is open to all - you do not need a certain level of software engineering expertise to join us.
 - ✏️ Registration: Please fill in the short form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=3c9X5zUfV0Svj3ycaxQ347a2dlRh4Z5BuU8qg2hAHQFUNko4OVlEUkU4R0lXSUVSWUROWThIMEhGSC4u).
 - 📧 Contact: For more details contact Lucy Whalley (l.whalley@northumbria.ac.uk)
